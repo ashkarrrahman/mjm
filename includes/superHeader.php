@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <meta charset="utf-8">
 <title>Mawilmada Jummah Masjid::Kandy</title>
 <meta name="author" content="Ashkar Rahman">
@@ -24,3 +25,10 @@
 <!-- general -->
 <script type="text/javascript" src="js/general.js"></script>
 
+=======
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mawilmada Jummuah Masjid</title>
+</head>
+>>>>>>> 29980992bfbe3a712209325a447ac28743e01986
